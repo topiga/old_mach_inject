@@ -229,7 +229,7 @@
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "";
 				OTHER_REZFLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = com.apple.carbonbundletemplate;
+				PRODUCT_BUNDLE_IDENTIFIER = "ga.t0pi.mach-inject-bundle-stub";
 				PRODUCT_NAME = mach_inject_bundle_stub;
 				SECTORDER_FLAGS = "";
 				WARNING_CFLAGS = (
@@ -263,7 +263,7 @@
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "";
 				OTHER_REZFLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = com.apple.carbonbundletemplate;
+				PRODUCT_BUNDLE_IDENTIFIER = "ga.t0pi.mach-inject-bundle-stub";
 				PRODUCT_NAME = mach_inject_bundle_stub;
 				SECTORDER_FLAGS = "";
 				WARNING_CFLAGS = (
@@ -296,7 +296,7 @@
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "";
 				OTHER_REZFLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = com.apple.carbonbundletemplate;
+				PRODUCT_BUNDLE_IDENTIFIER = "ga.t0pi.mach-inject-bundle-stub";
 				PRODUCT_NAME = mach_inject_bundle_stub;
 				SECTORDER_FLAGS = "";
 				WARNING_CFLAGS = (
